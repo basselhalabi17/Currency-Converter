@@ -1,0 +1,6 @@
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bassel\source\repos\CurrencyConverter\obj\Debug\net5.0\CurrencyConverter.MvcApplicationPartsAssemblyInfo.cache
